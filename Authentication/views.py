@@ -62,8 +62,8 @@ def register(request):
                 v.uid = generatestring(5)
                 v.save()
 
-                msg = 'https://127.0.0.1:8000/accounts/verify/'+ v.uid + "/" + v.pid
-                return render(request, 'signup.html', {"message": "Your account has been succesfully registered." + msg})
+                msg = 'https://asssign.herokuapp.com/accounts/verify/'+ v.uid + "/" + v.pid
+                return render(request, 'signup.html', {"message": "Your account has been succesfully registered \n" + msg})
         else:
             return render(request, 'signup.html', {"message": "Password didn't matched"})
 

@@ -4,6 +4,14 @@
   font-weight: bold;
   padding-left: 50px;
 }
+@media screen and (max-width:1000px){
+  .navbar-brand{
+    padding-left: 10px;
+  }
+  #login-btn-top{
+    padding: 0;
+  }
+}
 .nav-link{
   margin-left: 20px;
   color:black !important; 
@@ -22,7 +30,6 @@
 }
 #get-started{
   background-color: #2F2FA2;
-  margin-right: 50px;
   padding: 10px 30px;
   color: white !important;
   border-radius: 30px;
