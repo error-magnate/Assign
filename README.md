@@ -10,6 +10,7 @@ An project Management tool for individuals, solo developers who loves to create 
 
 ## Resources :
 Figma Design : https://www.figma.com/file/glcdII3jNvguRdoTKG25mp/
+
 Project URL : https://asssign.herokuapp.com/
 
 
