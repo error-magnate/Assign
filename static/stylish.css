@@ -1,0 +1,44 @@
+.navbar-brand{
+  color: #2F2FA2 !important;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 50px;
+}
+.nav-link{
+  margin-left: 20px;
+  color:black !important; 
+}
+.nav-link:hover{
+  color: #2F2FA2 !important;
+}
+#login-btn-top{
+  background-color: #2F2FA2;
+  margin-right: 50px;
+  padding: 10px 30px;
+  color: white !important;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+}
+#get-started{
+  background-color: #2F2FA2;
+  margin-right: 50px;
+  padding: 10px 30px;
+  color: white !important;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+}
+#main-img{
+  height: 60vh;
+  margin-top: 30px;
+}
+section h2{
+  color: #2F2FA2;
+  font-weight: bold;
+  margin-top: 40px;
+}
+section p{
+  font-weight: 500;
+  font-size: 25px;
+}

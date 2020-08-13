@@ -1,0 +1,81 @@
+.navbar-brand{
+  color: #2F2FA2 !important;
+  font-size: 50px;
+  font-weight: bold;
+  padding-left: 50px;
+}
+.nav-link{
+  margin-left: 20px;
+  color:black !important; 
+}
+.nav-link:hover{
+  color: #2F2FA2 !important;
+}
+
+.row{
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+
+#get-started{
+  background-color: #2F2FA2;
+  margin-right: 30px;
+  padding: 10px 30px;
+  color: white !important;
+  border-radius: 30px;
+  border: none;
+  outline: none;
+}
+#create-project{
+  color: black;
+  background-color: white;
+  border: none;
+  outline: none;
+  margin-top: 9px;
+  padding: 0px 40px;
+}
+#create-project:hover{
+  color: #2F2FA2;
+}
+
+#project-tiles{
+  margin-top: 20px;
+  position: fixed;
+  overflow-y: auto;
+  top: 90px;
+  bottom: 0;
+  border-right: 1px solid #2F2FA2;
+}
+
+#project{
+  background-color:#2F2FA2;
+  opacity: 0.9;
+  color: white;
+  border-radius: 50px;
+  text-align: center;
+  padding: 20px;
+  margin: 20px;
+}
+#task-tiles{
+  margin-top: 50px;
+  text-align: center;
+  margin-left: auto;
+  position: fixed;
+  overflow-y: auto;
+  right: 0;
+  top: 90px;
+  bottom: 0;
+  padding: 0px 50px;
+}
+#task{
+  display: grid;
+  grid-template-columns: 0.5fr 2fr 1fr 0.5fr 0.5fr;
+  border: 2px solid #2F2FA2;
+  border-radius: 20px;
+  padding: 20px;
+  margin: 20px;
+  align-items: center;
+}
+#task p{
+  margin: 0;
+}
