@@ -8,12 +8,6 @@ An project Management tool for individuals, solo developers who loves to create 
 - Database : SQlite(in development) and Postgresql(in production)
 - Deployment : Heroku, GIT
 
-## Resources :
-Figma Design : https://www.figma.com/file/glcdII3jNvguRdoTKG25mp/
-
-Project URL : https://asssign.herokuapp.com/
-
-
 ## Future TODOs :
 - Adding Collaboration Features.
 - Adding Team project Discussion.
